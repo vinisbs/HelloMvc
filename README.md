@@ -1,3 +1,3 @@
 # HelloMvc
 
-exercise creating a web server and configuring access, using Java, Maven and Spring MVC.
+Exercise creating a web server and configuring access, using Java, Maven and Spring MVC.
